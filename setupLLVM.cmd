@@ -1,0 +1,1 @@
+set LIBCLANG_PATH=d:/Programs/LLVM/Bin
